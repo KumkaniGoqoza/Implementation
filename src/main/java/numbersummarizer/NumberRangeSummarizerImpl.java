@@ -90,4 +90,3 @@ public class NumberRangeSummarizerImpl implements NumberRangeSummarizer {
     //endregion
 }
 //endregion
-}
